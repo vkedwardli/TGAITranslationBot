@@ -1,0 +1,22 @@
+{
+  "name": "tg-ai-translation-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that translates text using AI.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "translation",
+    "ai"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.1.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
