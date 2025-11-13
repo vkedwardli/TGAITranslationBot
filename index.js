@@ -61,7 +61,7 @@ export default {
         if (update.message) {
           const msg = update.message;
           const chatId = msg.chat.id;
-          const text = msg.text;
+          const text = msg.text || msg.caption;
           const chatType = msg.chat.type;
           const userId = msg.from.id;
 
