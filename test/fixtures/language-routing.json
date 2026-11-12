@@ -1,0 +1,18 @@
+[
+  { "text": "婷婷去1號A巴士站站等我", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "婷婷5分鐘後去1號巴士站等我", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "婷婷你現在過來1號巴士站站等", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "衣服等我回來才洗", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "衣服等我回来才洗", "role": "helper", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "Tintin, 衣服等我回來才洗", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "Tintin, \n麻煩你今日午餐要幫我送飯", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "幫我check吓", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "email畀你", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "幾點lunch", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "食buffet", "role": "family", "englishHelpForOthers": true, "expected": "indonesian" },
+  { "text": "Please bring lunch to school today.", "role": "family", "englishHelpForOthers": true, "expected": "both" },
+  { "text": "Please bring lunch to school today.", "role": "family", "englishHelpForOthers": false, "expected": "indonesian" },
+  { "text": "Yes madam, I will bring lunch.", "role": "helper", "englishHelpForOthers": true, "expected": "cantonese" },
+  { "text": "Saya sudah check email, nyonya.", "role": "helper", "englishHelpForOthers": true, "expected": "cantonese" },
+  { "text": "Please ask 太太 to call me when she gets home.", "role": "family", "englishHelpForOthers": true, "expected": "both" }
+]

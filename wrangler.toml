@@ -2,3 +2,8 @@ name = "tg-ai-translation-bot"
 main = "index.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = [ "nodejs_compat" ]
+
+[[d1_databases]]
+binding = "ROLE_DB"
+database_name = "tg-ai-translation-bot-settings"
+database_id = "f1c5d9de-8972-4157-b447-296ba9b6af7a"
